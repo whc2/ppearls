@@ -1,5 +1,7 @@
 ppearls
 =======
+## 编程珠玑
+## Author: Jon Bentley
 
 Programming Pearls Prep work
 
